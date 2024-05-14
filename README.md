@@ -10,7 +10,7 @@
 
 - Created - 2024-03
 
-- Technologies Used - Html , css , tailwind 
+- Technologies Used - Html , css , js
 
 
 - Role - Frontend
